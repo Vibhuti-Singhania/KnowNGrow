@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dell5567.knowngrow.Student"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:layout_width="match_parent"
+        android:textColor="#ffffff"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Scholarships"
+        android:background="#6f2e36"
+        android:textSize="20dp"
+
+        android:layout_marginTop="16dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Competitions"
+        android:textSize="20dp"
+        android:background="#54353a"
+        android:textColor="#ffffff"
+        android:layout_marginTop="16dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:text="Reservations"
+        android:background="#2e595f"
+        android:layout_marginTop="16dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:text="Internship"
+        android:background="#2b716f"
+        android:layout_marginTop="16dp"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:text="Self Paced Online Courses"
+        android:background="#2a817b"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"/>
+
+</LinearLayout>
